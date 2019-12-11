@@ -43,6 +43,8 @@ First, set  information to be migrated on ./custom-setup/setup.json.
 
 Second, run node index.js {env}.
 
+```yarn install```
+
 ```node index.js WORDPRESS_REST_URL=string CONTENTFUL_MANAGEMENT_API_KEY=string CONTENTFUL_DELIVERY_API_KEY=string CONTENTFUL_SPACE_ID=string CONTENTFUL_ENVIRONMENT_ID=string CONTENTFUL_DEFAULT_AREA=string  ```
 
 #### Usage2
@@ -52,6 +54,8 @@ Second, run node index.js {env}.
 First, set  information to be migrated on ./custom-setup/setup.json.
 
 Second, set env infomation on ./custom-setup/.env.json.
+
+```yarn install```
 
 ```node index.js```
 
