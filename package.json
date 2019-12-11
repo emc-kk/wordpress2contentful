@@ -1,0 +1,16 @@
+{
+  "name": "wordpress2contentful",
+  "version": "1.0.0",
+  "description": "wordpress post data integration into contentful",
+  "main": "index.js",
+  "author": "emckk",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.19.0",
+    "contentful": "^7.10.0",
+    "contentful-management": "^5.11.3",
+    "object-assign-deep": "^0.4.0",
+    "request": "^2.88.0"
+  }
+}

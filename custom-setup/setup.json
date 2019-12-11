@@ -1,0 +1,7 @@
+{
+    "WORDPRESS_POST_TYPE_SLUGS": [],
+    "type_1":"array of string. all data of slug is to be migrated.",
+    "WORDPRESS_POST_TYPE_SLUG_IDS":{},
+    "type_2":"set of postTypeSlug and ids. before use this, need to set post type on contentful.",
+    "attention":"Either WORDPRESS_POST_TYPE_SLUGS or WORDPRESS_POST_IDS should be empty!"
+}
