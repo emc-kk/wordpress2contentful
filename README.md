@@ -11,11 +11,11 @@ Wordpress has so rich editor and plugins helping not only we developers but also
 
 ## Usage
 
-###!!Attention!!
+### !!Attention!!
 
 This script cannot support Simple Post Type. So, need to set Custom Post Type and migrate Simple Post data to the Custom Post Type's before running this script if handling Simple Post Type. (Recommend using [Custom Post Type UI](https://ja.wordpress.org/plugins/custom-post-type-ui/))
 
-###Common
+### Common
 
 Neccessary information.
 
